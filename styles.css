@@ -1,0 +1,74 @@
+#in-fac {
+
+font-style: italic;
+font-family: cursive;
+text-align: left;
+
+}
+
+
+#fac {
+
+
+padding-left: 0px;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.an-inf span {
+
+  text-align: left;
+  font-weight: bold;
+
+}
+
+
+#container {
+
+border: 4px solid #331f00;
+padding: 20px;
+flex-wrap: wrap;
+margin: auto;
+background-color:  	rgb(255, 182, 193);
+width: 300px;
+box-shadow: 3px 8px lightpink;
+
+
+}
+
+#container img {
+
+width: 300px;
+
+}
+
+#card {
+
+border: 2px solid hsl(36, 100%, 25%);
+padding: inherit;
+background-color: lightpink;
+
+}
+
+ul {
+
+list-style-type: none;
+text-align: left;
+}
+
+p {
+
+
+font-family: monospace;
+font-size: 18px;
+text-align: left;
+
+
+}
+
+h1 {
+
+font-family: 'Times New Roman', sans-serif;
+text-align: center;
+
+}
